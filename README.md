@@ -1,10 +1,10 @@
 # DueWindShield_Sensor_Wind
 # WindLab2
 
-Mobile WindLab for teaching Windturbine aerodynamics at the [Technische Universität Berlin](www.tu-berlin.de). This is the firmware for the electronics, control, and data acquisition based on arduino due and a specially designed extension shield.
+Mobile WindLab for teaching Windturbine aerodynamics at the [Technische Universität Berlin](http://www.tu-berlin.de). This is the firmware for the electronics, control, and data acquisition based on arduino due and a specially designed extension shield.
 It includes an electronic load, current and voltage measurement, rpm measurement via speed encoder, switch between motor and generator mode, motor controller board and stepper motor controller for pitch control.
 This boards controls the wind tunnel fan, the pitch stepper motor, the switch for motor and generator mode and the electronic load for an special designed Micro wind turbine. The wind tunnel is also designed and buil for this project.
-Pleas have a look at [WindLab.de](www.windlab.de).
+Pleas have a look at [WindLab.de](http://www.windlab.de).
 
 ## Getting Started
 
